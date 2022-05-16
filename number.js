@@ -1,0 +1,22 @@
+let age = 32;
+let yearOfBirth = 1990;
+let dayOfBirth = 25;
+let numberOfBrothers = 2;
+let numberOfSisters = 2;
+let numberOfFamily = 6;
+let placesOfStudy = 500;
+let thisYear = 2022;
+let dollarRate = 65;
+let euroRate = 75;
+let bitcoinRate = 32000;
+//----------------------------//
+let ageYear = thisYear - yearOfBirth;
+let ageYear_1 = this - age;
+let all = numberOfBrothers + numberOfSisters;
+let euro = euroRate * 1000;
+let dollar = dollarRate * 2.5;
+let bitcoin = bitcoinRate / 10000;
+let priceTravel = placesOfStudy / dollarRate;
+let famile = numberOfFamily - numberOfBrothers - numberOfSisters;
+let spam = 0 / age;
+let sum = 35 - age;
